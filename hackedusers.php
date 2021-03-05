@@ -1,5 +1,5 @@
 <?php
-   $conn = mysqli_connect('localhost', 'root', '', 'fbhackedusers');
+   $conn = mysqli_connect('localhost', 'samson', '1342', 'fbhackedusers');
 ?>
 <!doctype html>
 <html>
